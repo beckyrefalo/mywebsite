@@ -1,0 +1,82 @@
+
+class.style
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(0, 0, 0);
+}
+
+ h2 {
+    color:white;
+    position: relative;
+    padding-top: 6 px;
+    padding-bottom: 20 px;
+    text-align:center;
+    height:34 px;
+    width:140;
+    padding-right: 250 px
+    float-right 555 px;
+    
+
+  
+}
+
+h3:hover {
+    color:white;
+    text-align:right;
+    padding-right: 500 px
+    float-right 769 px;
+
+}.hide 
+    
+        display{ none:
+        } .hide
+      
+      .myDIV:hover + .hide {
+        display: block;
+        color: rgb(122, 122, 122);
+      }
+
+
+.lmage{
+    margin-right: 500px;
+    float: left;
+    width: 150px;
+    height: 38px;
+}
+
+@charset "utf-8";
+	.st0
+{
+	background : #000000;
+	background : rgba(0, 0, 0, 1);
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 1366px;
+	height : 121px;
+}
+.NormalCharacterStyle
+{
+	font-family : Myriad Pro;
+	font-size : 42px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle1
+{
+	font-family : Myriad Pro;
+	font-size : 42px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle2
+{
+	font-family : Myriad Pro;
+	font-size : 42px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+
